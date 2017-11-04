@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/svnrepos/!svn/ver/114/VODTracker/src/java/org/homelinux/client/networkServices
+END
+VideoDataServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/svnrepos/!svn/ver/107/VODTracker/src/java/org/homelinux/client/networkServices/VideoDataServiceAsync.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svnrepos/!svn/ver/53/VODTracker/src/java/org/homelinux/client/networkServices/Service.java
+END
+VideoDataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/svnrepos/!svn/ver/107/VODTracker/src/java/org/homelinux/client/networkServices/VideoDataService.java
+END
+NetworkRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/svnrepos/!svn/ver/114/VODTracker/src/java/org/homelinux/client/networkServices/NetworkRequest.java
+END
+VideoUpdateServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/svnrepos/!svn/ver/53/VODTracker/src/java/org/homelinux/client/networkServices/VideoUpdateServiceAsync.java
+END
+VideoUpdateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/svnrepos/!svn/ver/53/VODTracker/src/java/org/homelinux/client/networkServices/VideoUpdateService.java
+END
+NetworkQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svnrepos/!svn/ver/78/VODTracker/src/java/org/homelinux/client/networkServices/NetworkQueue.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svnrepos/!svn/ver/48/VODTracker/src/java/org/homelinux/client/networkServices/package.html
+END

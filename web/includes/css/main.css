@@ -1,0 +1,266 @@
+@charset "UTF-8";
+/* CSS Document */
+/* 
+File: WEBROOT/css/main.css
+Created: 6-20-08
+Modified: 6-20-08
+Author: zeeight
+Email: zeeight@gmail.com
+*/
+@media screen {
+
+/* Font stuff */
+
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:1em;
+	line-height:130%;
+	background-color:#181818;
+	background-image:url('../../images/layout/page_bg.gif');
+	background-repeat:repeat-x;
+}
+small {
+	font-size:0.8em;
+}
+
+/* Primary layout and header */
+
+#container {
+	width:810px;
+	margin:0 auto;
+	padding:0;
+	border:10px solid #fff;
+}
+
+#header {
+     margin: 0; /* to avoid margins */
+     text-align: center; /* to correct the centering IE bug*/
+
+
+	display:block;
+	width:810px;
+	height:143px;
+	background-image:url('../../images/layout/mainLogo.jpg');
+	background-repeat:no-repeat;
+	overflow:hidden;
+}
+
+#menu {
+
+}
+
+#article {
+	width:810px;
+	margin:0;
+	padding:0;
+	background-color:#fff;
+	background-image:url('../../images/layout/article_bg.gif');
+	background-repeat:repeat-y;
+	overflow:hidden;
+}
+
+/* Two-column split */
+
+#digg {
+	float: right;
+	padding-left: 15px;
+}
+
+#left_col {
+	width:180px;
+	float:left;
+	margin:0;
+	padding:8px 0;
+	background-color:#e8e8e8;
+	overflow:inherit;
+	font-size:0.7em;
+	line-height:100%;
+}
+	div.left_col_header {
+		display:block;
+		width:172px;
+		height:21px;
+		margin:4px auto;
+		padding:0;
+		overflow:hidden;
+	}
+	div.left_col_box {
+		padding:0;
+		margin:0;
+	}
+	div.left_col_box a:hover {
+		color:#ff3300;
+	}
+	div.left_col_box p {
+		padding:6px;
+		margin:0;
+	}
+	div.left_col_box ul li {
+		padding:0;
+		margin:0;
+	}
+	div.left_col_box ul li a {
+		display:block;
+		font-size:1em;
+		color:#0000ee;
+		padding:4px 0 4px 12px;
+		border-bottom:1px solid #ccc;
+		border-top:1px solid #f4f4f4;
+	}
+	div.left_col_box ul li a:hover {
+		color:#ff3300;
+		background-color:#f2f2f2;
+	}
+	div.left_col_login_box {
+		padding:4px 8px;
+		text-align:left;
+	}
+	/* LOGIN FORM ELEMENTS FOR MAIN SITE */
+	div.left_col_login_box label {
+		font-weight:bold;
+	}
+	div.left_col_login_box_submit {
+		display:block;
+		float:left;
+	}
+	div.left_col_login_box_registerlink {
+		float:left;
+		display:block;
+		width:20px;
+		padding:6px 0 0 4px;
+	}
+	div.left_col_login_box_registerlink a:hover{
+		color:#ff3300;
+	}
+#right_col {
+	width:610px;
+	float:right;
+	margin:0;
+	padding:0 0 0 16px;
+	overflow:inherit;
+}
+	#right_col a:hover {
+		color:#ff3300;
+	}
+	#right_col hr {
+		color:#16345d;
+		background-color:#16345d;
+		height:2px;
+		border:none;
+		width:540px;
+		margin:8px auto;
+	}
+
+/* POST-SPECIFIC FORMATING AND LAYOUT */
+
+div.post {
+	padding:14px 10px 10px 10px;
+	margin:0 16px 0 0;
+	font-size:0.8em;
+}
+	div.post h1 {
+		font-size:1.4em;
+		margin:0;
+		padding:0;
+		color:#082143;
+	}
+	div.post h1 a {
+		color:#082143;
+		text-decoration:none;
+	}
+div.post_meta {
+	margin:0 0 8px 0;
+	padding:0;
+	color:#aaa;
+	font-style:italic;
+	font-size:0.85em;
+}
+div.post p.breadcrumbs {
+	font-size:0.9em;
+	font-style:italic;
+	margin-bottom:8px;
+}
+div.post p {
+	text-align:justify;
+	margin:11px 0;
+}
+div.post ul {
+	margin:8px 8px 8px 16px;
+	list-style-type:disc;
+	list-style-position:inside;
+}	 
+div.post a {
+	color:#0000FF;
+}
+div.post a:visited {
+	color:#000099;
+}
+div.post a.writeup_link,a.writeup_link:visited {
+	color:#0099FF;
+	font-style:italic;
+}
+
+/* POST COMMENTS */
+
+a.commentsbar, a.commentsbar2 {
+	display:block;
+	margin:0 0 0 0;
+	padding:4px;
+	border:2px solid #bbb;
+	text-decoration:none;
+	font-size:1em;
+	text-align:left;
+}
+
+a.commentsbar {
+	margin:12px 0 0 0;
+}
+
+a.commentsbar:hover, a.commentsbar2:hover {
+	border-color:#ff3300;
+}
+div.indv_comment {
+	display:block;
+	padding:4px 8px;
+	margin:0;
+	border-bottom:1px solid #ccc;
+	border-right:1px solid #ccc;
+	border-left:1px solid #ccc;
+	font-size:0.9em;
+	overflow:hidden;
+}
+	div.comment_body {
+		padding:0 8px;
+	}
+.odd {
+	background-color:#f2f2f2;
+}
+div.comments_reply_form {
+	margin:0 0 0 0;
+	padding:10px;
+	color:#aaa;
+	font-style:italic;
+	border:1px solid #ccc;
+	border-bottom:none;
+	border-top:none;
+}
+p.comments_form_header {
+	color:#082143;
+}
+p.thanks {
+	text-align:center;
+	color:#888;
+}
+/* Footer & misc */
+#footer {
+	width:810px;
+	padding:6px;
+	margin:16px auto;
+	text-align:center;
+	font-size:0.6em;
+	color:#888;
+}
+div.tinyClear {
+	clear:both;
+}
+}

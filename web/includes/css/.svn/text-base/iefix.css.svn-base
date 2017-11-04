@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+Author:  zeeight
+Email:  zeeight@gmail.com
+Reason for this file:  Because IE is silly?
+*/
+
+/* FIX FOR COMMENTATORS UL */
+div.left_col_box ul li a {
+	display:inline-block;
+}
+div.left_col_box ul li a {
+	display:block;
+}	
+
+	
+/* FIX FOR MENU-ITEMS WIDTH */
+#menu ul li a.home_2 {
+	width:100px;
+}
+#menu ul li a.forums_2 {
+	width:85px;
+}
+#menu ul li a.chat_2 {
+	width:115px;
+}
+#menu ul li.menu_padding {
+	width:510px;
+}

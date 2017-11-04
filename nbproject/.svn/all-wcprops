@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/svnrepos/!svn/ver/99/VODTracker/nbproject
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/svnrepos/!svn/ver/99/VODTracker/nbproject/project.properties
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/svnrepos/!svn/ver/99/VODTracker/nbproject/project.xml
+END
+genfiles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/svnrepos/!svn/ver/99/VODTracker/nbproject/genfiles.properties
+END
+ant-deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/svnrepos/!svn/ver/37/VODTracker/nbproject/ant-deploy.xml
+END
+gwt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/svnrepos/!svn/ver/76/VODTracker/nbproject/gwt.properties
+END
+build-gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/svnrepos/!svn/ver/84/VODTracker/nbproject/build-gwt.xml
+END
+build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/svnrepos/!svn/ver/99/VODTracker/nbproject/build-impl.xml
+END
+profiler-build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/svnrepos/!svn/ver/99/VODTracker/nbproject/profiler-build-impl.xml
+END

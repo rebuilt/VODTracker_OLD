@@ -1,0 +1,184 @@
+@charset "UTF-8";
+/* CSS Document */
+/* 
+File: WEBROOT/css/main.css
+Created: 08-08-08
+Modified: 08-08-08
+Author: zeeight
+Email: zeeight@gmail.com
+Copyright (c) 2008 SC2GG.com. All Rights Reserved.
+*/
+@media screen {
+
+/* Font stuff */
+
+body {
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:1em;
+	line-height:130%;
+	background-color:#fff;
+	background-image:url('../../../images/test/layout/page_bg.gif');
+	background-repeat:repeat-x;
+}
+div#container {
+	display:block;
+	width:872px;
+	margin:31px auto;
+	padding:0;
+}
+div#header {
+	display:block;
+	width:860px;
+	height:120px;
+	position:relative;
+	margin:0 0 0 6px;
+	background-image:url('../../../images/test/layout/mainLogo.jpg');
+	background-repeat:no-repeat;
+}
+div#menu {
+	position:absolute;
+	bottom:0;
+	display:block;
+	width:860px;
+	height:30px;
+	overflow:hidden;
+}
+div#article {
+	display:block;
+	width:856px;
+	height:600px;
+	margin:0;
+	overflow:hidden;
+	background-image:url('../../../images/test/layout/article_bg.gif');
+	background-repeat:repeat-y;
+	padding:0 8px;
+}
+	/* 3 -> COL */
+	div#left_col {
+		float:left;
+		margin:1px 0;
+		padding:0;
+		display:block;
+		width:144px;
+	}
+		div.vert_menu ul li.title {
+			display:block;
+			width:133px;
+			background-color:#13406f;
+			font-size:0.6em;
+			padding:2px 0 2px 11px;
+			color:#fff;
+			text-decoration:none;
+			border-bottom:1px solid #fff;
+		}
+		div.vert_menu ul li a {
+			display:block;
+			width:129px;
+			background-color:#eee;
+			font-size:0.6em;
+			padding:2px 4px 2px 11px;
+			color:#444;
+			text-decoration:none;
+			border-bottom:1px solid #fff;
+			line-height:150%;
+		}
+		div.vert_menu ul li a.archives {
+			display:block;
+			width:140px;
+			background-color:#eee;
+			font-size:0.6em;
+			padding:2px 4px 2px 0px;
+			color:#444;
+			text-align:right;
+			text-decoration:none;
+			border-bottom:1px solid #fff;
+			line-height:150%;
+		}
+		div.vert_menu ul li a:hover {
+			/*color:#fff;*/
+			/*background-color:#b3bcc7;*/
+		}
+		div.vert_menu ul li a.active {
+			color:#fff;
+			background-color:#5f7fa1;
+		}
+		div.vert_menu ul li.text {
+			display:block;
+			width:133px;
+			background-color:#eee;
+			font-size:0.6em;
+			padding:2px 0 2px 11px;
+			color:#444;
+			text-decoration:none;
+			border-bottom:1px solid #fff;
+		}
+/* ==== END LEFT COL ==== */
+	div#mid_col {
+		float:left;
+		margin:1px 0;
+		padding:0 22px;
+		display:block;
+		width:524px;
+	}
+		div#mid_col a {
+			color:#0000FF;
+		}
+		div#mid_col a:hover {
+			color:#ff4a00;
+		}
+		div#mid_col p {
+			text-align:justify;
+			font-size:0.76em;
+		}
+	div#news_rotator {
+		border:4px solid #eee;
+		padding:0;
+		margin:10px 0 11px 0;
+		display:block;
+		height:187px;
+		overflow:hidden;
+	}
+	div#news_rotator div.news{
+		padding:11px;
+		display:block;
+		width:96%;
+		height:180px;
+		overflow:hidden;
+	}
+	div#news_rotator div.news hr {
+		color:#ccc;
+		border-color:#ccc;
+		height:2px;
+		border:none;
+		background-color:#ccc;
+	}
+	div#news_rotator div.news h1 {
+		margin:0 0 11px 0;
+		color:#13446e;
+		font-size:1.2em;
+	}
+/* ==== END MID COL ==== */
+	div#right_col {
+		float:left;
+		margin:1px 0;
+		padding:0;
+		display:block;
+		width:144px;
+	}
+/* ==== END RIGHT COL ==== */
+/* Footer & misc */
+#footer {
+	width:872px;
+	padding:6px;
+	margin:16px auto;
+	text-align:center;
+	font-size:0.6em;
+	color:#888;
+}
+div.hidden {
+	display:none;
+}
+div.tinyClear {
+	clear:both;
+}
+}

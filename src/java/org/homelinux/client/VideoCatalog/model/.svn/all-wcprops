@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svnrepos/!svn/ver/105/VODTracker/src/java/org/homelinux/client/VideoCatalog/model
+END
+PlayListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/svnrepos/!svn/ver/55/VODTracker/src/java/org/homelinux/client/VideoCatalog/model/PlayListModel.java
+END
+SmartListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/svnrepos/!svn/ver/57/VODTracker/src/java/org/homelinux/client/VideoCatalog/model/SmartListModel.java
+END
+Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svnrepos/!svn/ver/105/VODTracker/src/java/org/homelinux/client/VideoCatalog/model/Video.java
+END
+VideoModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/svnrepos/!svn/ver/89/VODTracker/src/java/org/homelinux/client/VideoCatalog/model/VideoModel.java
+END
+NewestVideoModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/svnrepos/!svn/ver/55/VODTracker/src/java/org/homelinux/client/VideoCatalog/model/NewestVideoModel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svnrepos/!svn/ver/48/VODTracker/src/java/org/homelinux/client/VideoCatalog/model/package.html
+END

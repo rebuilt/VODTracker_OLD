@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/svnrepos/!svn/ver/104/VODTracker/src/java/org/homelinux/client/VideoPlayer/view/widgets/infopanel
+END
+InfoPanelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/svnrepos/!svn/ver/94/VODTracker/src/java/org/homelinux/client/VideoPlayer/view/widgets/infopanel/InfoPanelFactory.java
+END
+NonEditableInfoSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/svnrepos/!svn/ver/94/VODTracker/src/java/org/homelinux/client/VideoPlayer/view/widgets/infopanel/NonEditableInfoSection.java
+END
+EditableInfoSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/svnrepos/!svn/ver/104/VODTracker/src/java/org/homelinux/client/VideoPlayer/view/widgets/infopanel/EditableInfoSection.java
+END
+InfoPanelState.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/svnrepos/!svn/ver/104/VODTracker/src/java/org/homelinux/client/VideoPlayer/view/widgets/infopanel/InfoPanelState.java
+END
+INFOTYPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/svnrepos/!svn/ver/104/VODTracker/src/java/org/homelinux/client/VideoPlayer/view/widgets/infopanel/INFOTYPE.java
+END
+InfoPanelContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/svnrepos/!svn/ver/94/VODTracker/src/java/org/homelinux/client/VideoPlayer/view/widgets/infopanel/InfoPanelContainer.java
+END

@@ -1,0 +1,9 @@
+# To change this template, choose Tools | Templates
+# and open the template in the editor.
+
+
+url = jdbc:mysql://localhost:3306/
+dbName = sc2gg_ratings
+driver = com.mysql.jdbc.Driver
+userName = sc2gg_ratings
+password = LuwIuesNav2

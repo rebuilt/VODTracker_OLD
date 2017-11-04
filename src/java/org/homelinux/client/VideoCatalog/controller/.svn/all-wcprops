@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svnrepos/!svn/ver/113/VODTracker/src/java/org/homelinux/client/VideoCatalog/controller
+END
+WatchRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/svnrepos/!svn/ver/113/VODTracker/src/java/org/homelinux/client/VideoCatalog/controller/WatchRequest.java
+END
+PlayListRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/svnrepos/!svn/ver/113/VODTracker/src/java/org/homelinux/client/VideoCatalog/controller/PlayListRequest.java
+END
+VideoGalleryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/svnrepos/!svn/ver/84/VODTracker/src/java/org/homelinux/client/VideoCatalog/controller/VideoGalleryController.java
+END
+LoadTop10Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/svnrepos/!svn/ver/113/VODTracker/src/java/org/homelinux/client/VideoCatalog/controller/LoadTop10Request.java
+END
+NewVidCountRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/svnrepos/!svn/ver/113/VODTracker/src/java/org/homelinux/client/VideoCatalog/controller/NewVidCountRequest.java
+END
+QueryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/svnrepos/!svn/ver/113/VODTracker/src/java/org/homelinux/client/VideoCatalog/controller/QueryRequest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/svnrepos/!svn/ver/48/VODTracker/src/java/org/homelinux/client/VideoCatalog/controller/package.html
+END

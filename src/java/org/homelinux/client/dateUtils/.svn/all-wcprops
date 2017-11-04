@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/svnrepos/!svn/ver/50/VODTracker/src/java/org/homelinux/client/dateUtils
+END
+SimpleDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svnrepos/!svn/ver/37/VODTracker/src/java/org/homelinux/client/dateUtils/SimpleDateFormat.java
+END
+SimpleDateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svnrepos/!svn/ver/50/VODTracker/src/java/org/homelinux/client/dateUtils/SimpleDateParser.java
+END
+DateLocale.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/svnrepos/!svn/ver/40/VODTracker/src/java/org/homelinux/client/dateUtils/DateLocale.java
+END
+Pattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/svnrepos/!svn/ver/50/VODTracker/src/java/org/homelinux/client/dateUtils/Pattern.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/svnrepos/!svn/ver/49/VODTracker/src/java/org/homelinux/client/dateUtils/package.html
+END
